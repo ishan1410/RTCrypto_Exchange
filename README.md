@@ -174,7 +174,7 @@ sequenceDiagram
 
 ---
 
-## 🚀 Performance Benchmarks
+## Performance Benchmarks
 
 Stress testing performed on a local development environment (Node.js single thread) demonstrating high-throughput capabilities.
 
@@ -186,7 +186,7 @@ Stress testing performed on a local development environment (Node.js single thre
 
 > **Note**: These results were achieved running the engine, Redis, and Postgres on the same machine. Production deployment on separated infrastructure would yield significantly higher throughput.
 
-## 🧪 Verification Metrics
+## Verification Metrics
 
 The system has been verified to handle the following scenarios:
 - **Partial Fills**: Large orders consume multiple smaller liquidity providers.
